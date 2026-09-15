@@ -25,7 +25,7 @@ inside a bullish EMA200 regime; absolute RSI level was a weak predictor of
 outcome (AUC ≈ 0.45–0.59); an RSI-acceleration filter looked promising in
 development (AUC ≈ 0.64) but did not hold up in validation or the final
 test. Full narrative, including every intermediate result and the reasoning
-behind each decision, is in [`docs/RESEARCH_LOG.md`](docs/RESEARCH_LOG.md).
+behind each decision, is in [`RESEARCH_LOG.md`](RESEARCH_LOG.md).
 
 ## Results at a glance
 
